@@ -1,4 +1,4 @@
-## This is one my client project - The largest coffee industry in Malaysia(ZusCoffee)
+## ML Project
 - Responsible for designing data pipeline(ELT) from AWS Redshift to AWS S3 to AWS EC2
 - Data pre-processing
 - Feature Engineering
